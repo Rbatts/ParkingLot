@@ -1,0 +1,6 @@
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\obj\Debug\Garage Application Working.csproj.CoreCompileInputs.cache
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\bin\Debug\Garage Application Working.exe.config
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\bin\Debug\Garage Application Working.exe
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\bin\Debug\Garage Application Working.pdb
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\obj\Debug\Garage Application Working.exe
+C:\Users\Rich\source\repos\Garage Application Working\Garage Application Working\obj\Debug\Garage Application Working.pdb
